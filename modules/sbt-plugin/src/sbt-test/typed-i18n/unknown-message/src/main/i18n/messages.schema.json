@@ -1,0 +1,8 @@
+{
+  "package": "example.i18n",
+  "messages": {
+    "common.save": {
+      "arguments": {}
+    }
+  }
+}

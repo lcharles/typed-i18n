@@ -1,0 +1,12 @@
+{
+  "package": "example.i18n",
+  "messages": {
+    "survey.answerCount": { "arguments": { "count": "int" } },
+    "metrics.decimal": { "arguments": { "value": "decimal" } },
+    "metrics.large": { "arguments": { "value": "long" } },
+    "account.welcome": { "arguments": { "tone": "string", "userName": "string" } },
+    "common.save": { "arguments": {}, "fluentId": "save-button" },
+    "common.reference": { "arguments": {} },
+    "common.constant": { "arguments": { "unused": "string" } }
+  }
+}

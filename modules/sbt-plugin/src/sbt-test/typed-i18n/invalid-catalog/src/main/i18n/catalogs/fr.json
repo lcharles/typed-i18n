@@ -1,0 +1,6 @@
+{
+  "locale": "fr",
+  "messages": {
+    "account.welcome": "Bienvenue, {name}"
+  }
+}

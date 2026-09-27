@@ -1,0 +1,25 @@
+{
+  "package": "example.i18n",
+  "messages": {
+    "common.save": {
+      "arguments": {}
+    },
+    "common.cancel": {
+      "arguments": {}
+    },
+    "common.escaped": { "arguments": {} },
+    "metrics.summary": {
+      "arguments": { "enabled": "boolean", "ratio": "decimal", "total": "long" }
+    },
+    "account.welcome": {
+      "arguments": {
+        "userName": "string"
+      }
+    },
+    "survey.answerCount": {
+      "arguments": {
+        "count": "int"
+      }
+    }
+  }
+}

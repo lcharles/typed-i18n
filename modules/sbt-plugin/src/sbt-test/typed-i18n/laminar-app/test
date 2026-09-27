@@ -1,0 +1,5 @@
+> typedI18nValidate
+> compile
+> fastLinkJS
+$ exists index.html
+$ exists target/scala-3.9.0/root-fastopt/main.js

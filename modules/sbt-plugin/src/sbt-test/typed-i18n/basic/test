@@ -1,0 +1,8 @@
+> typedI18nValidate
+> compile
+> run
+$ copy-file changes/fr-updated.json src/main/i18n/catalogs/fr.json
+> run updated
+$ copy-file changes/ExternalMain.scala src/main/scala/example/Main.scala
+> set typedI18nBundleCatalogs := false
+> run

@@ -1,0 +1,11 @@
+{
+  "locale": "fr",
+  "messages": {
+    "common.save": "Sauvegarder",
+    "common.cancel": "Annuler",
+    "common.escaped": "A quote: \"; slash: \\; dollar: $1; line:\n\tend\b\f",
+    "metrics.summary": "{enabled} / {ratio} / {total} / {total}",
+    "account.welcome": "Bienvenue, {userName}",
+    "survey.answerCount": "{count} réponses"
+  }
+}
